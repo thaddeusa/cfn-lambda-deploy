@@ -1,7 +1,7 @@
 # cfn-lambda-deploy
 Bash scripts that help streamline deployment of lambda function(s) and their new version(s) via CloudFormation
 
-__This is an older, outdated method. There are currently better ways to accomplish CI/CD with Lambda deployemnts, but this is a good starter method for local testing.__
+__This is an older, outdated method. There are currently better ways to accomplish CI/CD with Lambda deployments, but this is a good starter method for local testing.__
 
 ## Bash scripts
 
